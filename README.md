@@ -18,3 +18,5 @@ Completed:
 * [] Optional: `-h` argument prints CLI API
 
 Walkthrough Gif:
+
+![Video Walkthrough](walkthrough.gif)
